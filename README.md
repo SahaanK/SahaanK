@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SahaanK
-- 👀 I’m interested in computer programming
+- 👋 Hi, I’m Sahan Kariyawasam
+- I'm an Engineering Undergraduate at Faculty of Engineering, University of Peradeniya
 - 🌱 I’m currently learning Python programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 <!---
 SahaanK/SahaanK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
